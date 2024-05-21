@@ -1,11 +1,11 @@
 import React, { ChangeEvent, useState, KeyboardEvent } from 'react';
 import { FilterValuesType } from './App';
 
-// export type TaskType = {
-//   id: string
-//   title: string
-//   isDone: boolean
-// }
+export type TaskType = {
+  id: string
+  title: string
+  isDone: boolean
+}
 
 export type PropsType = {
   id: string
