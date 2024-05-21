@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "//elizachernysh.github.io/my-todolist/static/css/main.8785da40.css",
+    "main.js": "//elizachernysh.github.io/my-todolist/static/js/main.d1b94488.js",
+    "static/js/453.73b6a78c.chunk.js": "//elizachernysh.github.io/my-todolist/static/js/453.73b6a78c.chunk.js",
+    "index.html": "//elizachernysh.github.io/my-todolist/index.html",
+    "main.8785da40.css.map": "//elizachernysh.github.io/my-todolist/static/css/main.8785da40.css.map",
+    "main.d1b94488.js.map": "//elizachernysh.github.io/my-todolist/static/js/main.d1b94488.js.map",
+    "453.73b6a78c.chunk.js.map": "//elizachernysh.github.io/my-todolist/static/js/453.73b6a78c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8785da40.css",
+    "static/js/main.d1b94488.js"
+  ]
+}
